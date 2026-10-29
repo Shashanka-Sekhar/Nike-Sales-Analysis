@@ -25,8 +25,6 @@ This dashboard explores:
 - Product-line performance across gender categories
 - Top 10 products by revenue
 
-> **Screenshot setup:** Add your dashboard screenshots to an `images/` folder in the repository and name them `nike-sales-performance.png` and `nike-product-customer-insights.png`, or update the image paths above to match your filenames.
-
 ## Project Objectives
 
 - Clean and prepare sales data for analysis.
